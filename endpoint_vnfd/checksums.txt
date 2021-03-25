@@ -1,0 +1,2 @@
+d4b35dfc4bbfadc401b9aa82f73e4a4c  endpoint_vnfd.yaml
+2d3f6cbcb6355adbbc880e3b3396e709  cloud_init/cloud-config.txt

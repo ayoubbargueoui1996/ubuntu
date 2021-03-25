@@ -1,0 +1,8 @@
+#cloud-config
+password: osm4u
+chpasswd: { expire: False }
+ssh_pwauth: True
+
+runcmd:
+-   sysctl -w net.ipv4.ip_forward=1
+

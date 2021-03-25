@@ -1,0 +1,2 @@
+b3e10ecb54bdfa9be43f891a88394562  vnf_mpls_vnfd.yaml
+2d3f6cbcb6355adbbc880e3b3396e709  cloud_init/cloud-config.txt
